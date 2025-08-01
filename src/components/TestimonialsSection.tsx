@@ -5,28 +5,28 @@ import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "Maria Santos",
-      location: "Quezon City",
-      store: "Tindahan ni Maria",
-      content: "TINDA transformed my small store! My sales increased by 70% in just 3 months. The inventory tracking helps me know exactly what my customers want.",
-      rating: 5,
-      initials: "MS"
+      name: "Nang Alma",
+      location: "Iligan City",
+      store: "Rosalinda Store",
+      content: "Dako ug tabang ang TINDA sa among negosyo. Sa pagkadako sa amoang Tindahan, dali nalang namo ma trace tanan kailangan e inventory ug dle nami malangan sgeg contact sa supplier.",
+      rating: 4,
+      initials: "NA"
     },
     {
-      name: "Juan Dela Cruz",
-      location: "Cebu City",
-      store: "Juan's Mini Mart",
-      content: "Hindi ako marunong sa teknolohiya, pero TINDA ay napakadaling gamitin. The support team even taught me in Tagalog!",
-      rating: 5,
-      initials: "JC"
+      name: "Jiandale Ambal",
+      location: "Iligan City",
+      store: "Ambal Store",
+      content: "Nindot sya na producto nga ge come up namo sa MyISAP <3",
+      rating: 10,
+      initials: "JA"
     },
     {
-      name: "Rosa Valdez",
-      location: "Davao City", 
-      store: "Sari-Sari ni Rosa",
-      content: "My customers love that they can pay with GCash now. I serve more people and my business is growing every day. Salamat TINDA!",
-      rating: 5,
-      initials: "RV"
+      name: "Jodenn Algallar",
+      location: "Mati Davao Oriental",
+      store: "Jodenn Store",
+      content: "Interested ko kay nadunggan nako na cheka sakong friend na gikan sa Iligan. Gusto pd nako ma implement dris amoa sa Mati Davao",
+      rating: 6,
+      initials: "JA"
     }
   ];
 

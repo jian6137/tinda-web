@@ -69,7 +69,7 @@ const CTASection = () => {
                   Speak with our Filipino support team
                 </p>
                 <a href="tel:+639123456789" className="text-primary font-semibold hover:underline">
-                  +63 912 345 6789
+                  +63 953 590 9161
                 </a>
               </CardContent>
             </Card>
@@ -81,8 +81,8 @@ const CTASection = () => {
                 <p className="text-muted-foreground text-sm mb-3">
                   Get detailed information about TINDA
                 </p>
-                <a href="mailto:hello@tinda.ph" className="text-primary font-semibold hover:underline">
-                  hello@tinda.ph
+                <a href="mailto:info@tinda.zaide.online" className="text-primary font-semibold hover:underline">
+                  info@tinda.zaide.online
                 </a>
               </CardContent>
             </Card>

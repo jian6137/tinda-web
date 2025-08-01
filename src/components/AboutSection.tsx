@@ -72,7 +72,7 @@ const AboutSection = () => {
             
             {/* Floating stats */}
             <div className="absolute -top-6 -right-6 bg-white rounded-xl p-4 shadow-accent animate-float">
-              <div className="text-2xl font-bold text-primary">₱2.5M</div>
+              <div className="text-2xl font-bold text-primary">₱100K+</div>
               <div className="text-sm text-muted-foreground">Average Monthly Sales</div>
             </div>
             

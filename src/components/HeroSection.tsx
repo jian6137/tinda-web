@@ -12,7 +12,7 @@ const HeroSection = () => {
           alt="Modern Filipino Sari Sari Store" 
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 hero-gradient opacity-90"></div>
+        <div className="absolute inset-0 hero-gradient opacity-80"></div>
       </div>
       
       {/* Floating elements */}

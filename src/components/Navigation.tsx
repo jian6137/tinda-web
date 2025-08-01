@@ -39,9 +39,6 @@ const Navigation = () => {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-4">
-            <Button variant="outline" className="text-primary border-primary hover:bg-primary hover:text-primary-foreground">
-              Login
-            </Button>
             <Button className="primary-gradient text-primary-foreground shadow-primary">
               Get Started
             </Button>
